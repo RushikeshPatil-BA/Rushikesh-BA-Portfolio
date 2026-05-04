@@ -1,4 +1,4 @@
-# 📊 Business Analyst Portfolio – Jamie Christian
+# Business Analyst Portfolio – Rushikesh Patil
 
 Welcome to my **Business Analyst Portfolio**, showcasing real-world, end-to-end case studies across **healthcare, SaaS, CRM, SQL analytics, and business intelligence**.
 
@@ -6,7 +6,7 @@ This repository demonstrates my ability to translate business problems into clea
 
 ---
 
-## 👤 About Me
+## About Me
 
 I am a **Business Analyst** with hands-on experience in:
 - Requirements elicitation & documentation
@@ -19,7 +19,7 @@ My work focuses on **improving efficiency, reducing operational risk, and drivin
 
 ---
 
-## 🧠 Core Skills & Tools
+## Core Skills & Tools
 
 **Business Analysis**
 - Business Requirements Documents (BRD)
@@ -43,9 +43,9 @@ My work focuses on **improving efficiency, reducing operational risk, and drivin
 
 ---
 
-## 📂 Featured Case Studies
+## Featured Case Studies
 
-### 🏥 Healthcare Claims Processing Optimization
+### Healthcare Claims Processing Optimization
 **Domain:** Healthcare / Insurance  
 **Focus:** Process Optimization, Requirements, Data Analysis  
 
@@ -54,7 +54,7 @@ My work focuses on **improving efficiency, reducing operational risk, and drivin
 - Increased auto-adjudication to **78%**
 - Delivered **$1.4M in annual cost savings**
 
-📁 Folder: `Healthcare_BA_Case_Study`
+Folder: `Healthcare_BA_Case_Study`
 
 ---
 
@@ -66,11 +66,11 @@ My work focuses on **improving efficiency, reducing operational risk, and drivin
 - Designed To-Be workflows
 - Improved cross-team visibility and efficiency
 
-📁 Folder: `SaaS_Business_Analyst_Case_Study`
+Folder: `SaaS_Business_Analyst_Case_Study`
 
 ---
 
-### 🧮 SQL Customer Retention Analysis
+### SQL Customer Retention Analysis
 **Domain:** Analytics / Customer Retention  
 **Focus:** SQL, KPI Analysis, Business Insights  
 
@@ -82,7 +82,7 @@ My work focuses on **improving efficiency, reducing operational risk, and drivin
 
 ---
 
-### 🔁 Salesforce Sales Operations Case Study
+### Salesforce Sales Operations Case Study
 **Domain:** CRM / Sales Operations  
 **Focus:** Process Improvement, Reporting, Pipeline Analysis  
 
@@ -94,7 +94,7 @@ My work focuses on **improving efficiency, reducing operational risk, and drivin
 
 ---
 
-## 📑 Documentation & Artifacts
+## Documentation & Artifacts
 
 This portfolio also includes standalone BA artifacts:
 
@@ -109,31 +109,6 @@ This portfolio also includes standalone BA artifacts:
 - **Business Analytics**
   - Excel dashboards & KPI tracking  
   📁 `Business_Analytics_Excel`
-
----
-
-## 🌐 Portfolio Website
-
-This repository is also presented as a **GitHub Pages portfolio site** for recruiter viewing:
-
-➡️ `index.html` (Portfolio Homepage)
-
----
-
-## 📫 Contact
-
-- **GitHub:** https://github.com/JamieChristian22  
-- **LinkedIn:** https://www.linkedin.com/ (add your profile)
-
----
-
-## ⭐ How to Use This Repository
-
-Recruiters and hiring managers can:
-- Review case studies by folder
-- Examine real BA deliverables
-- See measurable business impact
-- Assess tool proficiency and methodology alignment
 
 ---
 
