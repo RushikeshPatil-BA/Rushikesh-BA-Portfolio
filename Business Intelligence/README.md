@@ -44,6 +44,4 @@ This folder contains a collection of data visualization projects created using P
 
 ## 📬 Contact
 
-Created by **Jamie Christian II**  
-[LinkedIn](www.linkedin.com/in/jamie-christian-ii-6b7a01232)  
-[GitHub](https://github.com/JamieChristian22)
+Created by **Rushikesh Patil**
