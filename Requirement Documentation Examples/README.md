@@ -27,4 +27,4 @@ These are typical assets a Business Analyst creates to support system design, st
 
 ## 📬 Connect
 
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/rushikeshpatil2606 ) for additional context or collaboration opportunities.
+Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/rushikeshpatil2606]) for additional context or collaboration opportunities.
