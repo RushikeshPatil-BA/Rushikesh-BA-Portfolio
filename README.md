@@ -1,4 +1,4 @@
-# Business Analyst Portfolio – Rushikesh Patil
+# Business Analyst Portfolio - Rushikesh Patil
 
 Welcome to my **Business Analyst Portfolio**, showcasing real-world, end-to-end case studies across **healthcare, SaaS, CRM, SQL analytics, and business intelligence**.
 
