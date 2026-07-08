@@ -32,4 +32,4 @@ Each file contributes to a clear, proactive approach to planning and executing s
 
 ## 📬 Connect
 
-For questions about these artifacts or to discuss how I apply them in real-world scenarios, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/jamie-christian-ii-6b7a01232).
+For questions about these artifacts or to discuss how I apply them in real-world scenarios, feel free to [connect with me on LinkedIn]([https://www.linkedin.com/in/rushikeshpatil2606])
